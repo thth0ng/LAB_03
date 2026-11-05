@@ -1,0 +1,22 @@
+# STM32CubeIDE workspace metadata and generated build output
+.metadata/
+**/Debug/
+**/Release/
+
+# Proteus backup and machine-specific workspace files
+*.pdsbak
+*.workspace
+
+# Common generated artifacts
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Operating-system files
+Thumbs.db
+.DS_Store
